@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\s189067\source\repos\assessment1\number guessing game\main.cpp(10): warning C4101: 'resetUI': unreferenced local variable
+  Generating code
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Number guessing game.vcxproj -> C:\Users\s189067\source\repos\Assessment1\x64\Release\Number guessing game.exe
