@@ -1,6 +1,7 @@
-﻿  Main.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Assessment1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
   mechanics.cpp
   Generating code
-  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Assessment1.vcxproj -> C:\Users\s189067\source\repos\Assessment1\x64\Release\Assessment1.exe
+  Assessment1.vcxproj -> C:\Users\s189067\source\repos\Assessment1\x64\Release\TicTacToe.exe
